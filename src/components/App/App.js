@@ -6,8 +6,5 @@ class App extends React.Component {
     return <div className="message-box">Hello Hi...{this.props.name}</div>;
   }
 }
-//const el = document.body;
-
-//ReactDOM.render(<App name="John" />, el);
 
 export default App;
